@@ -1,0 +1,6 @@
+remote_theme: mmistakes/minimal-mistakes
+title: "Dr Aman Goyal"
+description: "M.S. General Surgery | Robotic & GI-Oncology Researcher"
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
